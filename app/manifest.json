@@ -79,6 +79,8 @@
     "unlimitedStorage",
     "clipboardWrite",
     "http://localhost/*",
+    "http://twilight.finance/*",
+    "http://demo.twilight.finance/*",
     "https://*.infura.io/",
     "activeTab",
     "webRequest",
